@@ -1,0 +1,50 @@
+2020-04-21T03:17:08,193 INFO  [system.selfupdate.DMMGamePlayerBoot] [main] Deleting Temporary Files.
+2020-04-21T03:17:10,741 INFO  [system.selfupdate.DMMGamePlayerBoot] [getUpdateLibrariesAsync-pool-1-thread-1] Deleting Temporary Files.
+2020-04-21T03:17:10,742 INFO  [system.selfupdate.DMMGamePlayerUpdate] [getUpdateLibrariesAsync-pool-1-thread-1] Copy files in Directory from C:\Visual novel\[RyuuBlogger] GAME-965951\DMMGamePlayer\rt to C:\Users\R154NG\AppData\Local\Temp\com.dmm\rt
+2020-04-21T03:17:10,743 INFO  [system.selfupdate.DMMGamePlayerUpdate] [getUpdateLibrariesAsync-pool-1-thread-1] Copy files in Directory from C:\Visual novel\[RyuuBlogger] GAME-965951\DMMGamePlayer\rt\bin to C:\Users\R154NG\AppData\Local\Temp\com.dmm\rt\bin
+2020-04-21T03:17:10,763 INFO  [system.selfupdate.DMMGamePlayerUpdate] [getUpdateLibrariesAsync-pool-1-thread-1] Copy files in Directory from C:\Visual novel\[RyuuBlogger] GAME-965951\DMMGamePlayer\rt\bin\jetvm to C:\Users\R154NG\AppData\Local\Temp\com.dmm\rt\bin\jetvm
+2020-04-21T03:17:10,765 INFO  [system.selfupdate.DMMGamePlayerUpdate] [getUpdateLibrariesAsync-pool-1-thread-1] 1 files copied to C:\Users\R154NG\AppData\Local\Temp\com.dmm\rt\bin\jetvm
+2020-04-21T03:17:10,824 INFO  [system.selfupdate.DMMGamePlayerUpdate] [getUpdateLibrariesAsync-pool-1-thread-1] 52 files copied to C:\Users\R154NG\AppData\Local\Temp\com.dmm\rt\bin
+2020-04-21T03:17:10,825 INFO  [system.selfupdate.DMMGamePlayerUpdate] [getUpdateLibrariesAsync-pool-1-thread-1] Copy files in Directory from C:\Visual novel\[RyuuBlogger] GAME-965951\DMMGamePlayer\rt\jetrt to C:\Users\R154NG\AppData\Local\Temp\com.dmm\rt\jetrt
+2020-04-21T03:17:10,929 INFO  [system.selfupdate.DMMGamePlayerUpdate] [getUpdateLibrariesAsync-pool-1-thread-1] 36 files copied to C:\Users\R154NG\AppData\Local\Temp\com.dmm\rt\jetrt
+2020-04-21T03:17:10,929 INFO  [system.selfupdate.DMMGamePlayerUpdate] [getUpdateLibrariesAsync-pool-1-thread-1] Copy files in Directory from C:\Visual novel\[RyuuBlogger] GAME-965951\DMMGamePlayer\rt\lib to C:\Users\R154NG\AppData\Local\Temp\com.dmm\rt\lib
+2020-04-21T03:17:10,932 INFO  [system.selfupdate.DMMGamePlayerUpdate] [getUpdateLibrariesAsync-pool-1-thread-1] Copy files in Directory from C:\Visual novel\[RyuuBlogger] GAME-965951\DMMGamePlayer\rt\lib\cmm to C:\Users\R154NG\AppData\Local\Temp\com.dmm\rt\lib\cmm
+2020-04-21T03:17:10,935 INFO  [system.selfupdate.DMMGamePlayerUpdate] [getUpdateLibrariesAsync-pool-1-thread-1] 5 files copied to C:\Users\R154NG\AppData\Local\Temp\com.dmm\rt\lib\cmm
+2020-04-21T03:17:10,937 INFO  [system.selfupdate.DMMGamePlayerUpdate] [getUpdateLibrariesAsync-pool-1-thread-1] Copy files in Directory from C:\Visual novel\[RyuuBlogger] GAME-965951\DMMGamePlayer\rt\lib\ext to C:\Users\R154NG\AppData\Local\Temp\com.dmm\rt\lib\ext
+2020-04-21T03:17:10,951 INFO  [system.selfupdate.DMMGamePlayerUpdate] [getUpdateLibrariesAsync-pool-1-thread-1] 6 files copied to C:\Users\R154NG\AppData\Local\Temp\com.dmm\rt\lib\ext
+2020-04-21T03:17:10,953 INFO  [system.selfupdate.DMMGamePlayerUpdate] [getUpdateLibrariesAsync-pool-1-thread-1] Copy files in Directory from C:\Visual novel\[RyuuBlogger] GAME-965951\DMMGamePlayer\rt\lib\fonts to C:\Users\R154NG\AppData\Local\Temp\com.dmm\rt\lib\fonts
+2020-04-21T03:17:10,980 INFO  [system.selfupdate.DMMGamePlayerUpdate] [getUpdateLibrariesAsync-pool-1-thread-1] 1 files copied to C:\Users\R154NG\AppData\Local\Temp\com.dmm\rt\lib\fonts
+2020-04-21T03:17:10,988 INFO  [system.selfupdate.DMMGamePlayerUpdate] [getUpdateLibrariesAsync-pool-1-thread-1] Copy files in Directory from C:\Visual novel\[RyuuBlogger] GAME-965951\DMMGamePlayer\rt\lib\i386 to C:\Users\R154NG\AppData\Local\Temp\com.dmm\rt\lib\i386
+2020-04-21T03:17:10,990 INFO  [system.selfupdate.DMMGamePlayerUpdate] [getUpdateLibrariesAsync-pool-1-thread-1] 1 files copied to C:\Users\R154NG\AppData\Local\Temp\com.dmm\rt\lib\i386
+2020-04-21T03:17:10,991 INFO  [system.selfupdate.DMMGamePlayerUpdate] [getUpdateLibrariesAsync-pool-1-thread-1] Copy files in Directory from C:\Visual novel\[RyuuBlogger] GAME-965951\DMMGamePlayer\rt\lib\images to C:\Users\R154NG\AppData\Local\Temp\com.dmm\rt\lib\images
+2020-04-21T03:17:10,991 INFO  [system.selfupdate.DMMGamePlayerUpdate] [getUpdateLibrariesAsync-pool-1-thread-1] Copy files in Directory from C:\Visual novel\[RyuuBlogger] GAME-965951\DMMGamePlayer\rt\lib\images\cursors to C:\Users\R154NG\AppData\Local\Temp\com.dmm\rt\lib\images\cursors
+2020-04-21T03:17:11,026 INFO  [system.selfupdate.DMMGamePlayerUpdate] [getUpdateLibrariesAsync-pool-1-thread-1] 8 files copied to C:\Users\R154NG\AppData\Local\Temp\com.dmm\rt\lib\images\cursors
+2020-04-21T03:17:11,027 INFO  [system.selfupdate.DMMGamePlayerUpdate] [getUpdateLibrariesAsync-pool-1-thread-1] 0 files copied to C:\Users\R154NG\AppData\Local\Temp\com.dmm\rt\lib\images
+2020-04-21T03:17:11,038 INFO  [system.selfupdate.DMMGamePlayerUpdate] [getUpdateLibrariesAsync-pool-1-thread-1] Copy files in Directory from C:\Visual novel\[RyuuBlogger] GAME-965951\DMMGamePlayer\rt\lib\management to C:\Users\R154NG\AppData\Local\Temp\com.dmm\rt\lib\management
+2020-04-21T03:17:11,043 INFO  [system.selfupdate.DMMGamePlayerUpdate] [getUpdateLibrariesAsync-pool-1-thread-1] 4 files copied to C:\Users\R154NG\AppData\Local\Temp\com.dmm\rt\lib\management
+2020-04-21T03:17:11,048 INFO  [system.selfupdate.DMMGamePlayerUpdate] [getUpdateLibrariesAsync-pool-1-thread-1] Copy files in Directory from C:\Visual novel\[RyuuBlogger] GAME-965951\DMMGamePlayer\rt\lib\security to C:\Users\R154NG\AppData\Local\Temp\com.dmm\rt\lib\security
+2020-04-21T03:17:11,067 INFO  [system.selfupdate.DMMGamePlayerUpdate] [getUpdateLibrariesAsync-pool-1-thread-1] 8 files copied to C:\Users\R154NG\AppData\Local\Temp\com.dmm\rt\lib\security
+2020-04-21T03:17:11,075 INFO  [system.selfupdate.DMMGamePlayerUpdate] [getUpdateLibrariesAsync-pool-1-thread-1] 21 files copied to C:\Users\R154NG\AppData\Local\Temp\com.dmm\rt\lib
+2020-04-21T03:17:11,075 INFO  [system.selfupdate.DMMGamePlayerUpdate] [getUpdateLibrariesAsync-pool-1-thread-1] 0 files copied to C:\Users\R154NG\AppData\Local\Temp\com.dmm\rt
+2020-04-21T03:17:11,076 INFO  [system.selfupdate.DMMGamePlayerUpdate] [getUpdateLibrariesAsync-pool-1-thread-1] C:\Visual novel\[RyuuBlogger] GAME-965951\DMMGamePlayer\rt.zip
+2020-04-21T03:17:11,076 ERROR [system.selfupdate.DMMGamePlayerUpdate] [getUpdateLibrariesAsync-pool-1-thread-1] C:\Visual novel\[RyuuBlogger] GAME-965951\DMMGamePlayer\rt.zip
+java.nio.file.NoSuchFileException: C:\Visual novel\[RyuuBlogger] GAME-965951\DMMGamePlayer\rt.zip
+	at sun.nio.fs.WindowsFileCopy.copy(Unknown Source) ~[?:1.8.0_121]
+	at sun.nio.fs.WindowsFileSystemProvider.copy(Unknown Source) ~[?:1.8.0_121]
+	at java.nio.file.Files.<unknown>(Unknown Source) ~[?:1.8.0_121]
+	at com.dmm.system.selfupdate.DMMGamePlayerUpdate.copyToTempDmm(Unknown Source) [DMMGamePlayer-1.0.0.jar:?]
+	at com.dmm.system.PlatformService.<unknown>(Unknown Source) [DMMGamePlayer-1.0.0.jar:?]
+	at com.dmm.controller.task.callables.FindPlatformUpdatingFiles.getUpdateLibraries(Unknown Source) [DMMGamePlayer-1.0.0.jar:?]
+	at com.dmm.controller.task.callables.FindPlatformUpdatingFiles.<unknown>(Unknown Source) [DMMGamePlayer-1.0.0.jar:?]
+	at com.dmm.controller.task.callables.FindPlatformUpdatingFiles.call(Unknown Source) [DMMGamePlayer-1.0.0.jar:?]
+	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_121]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_121]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_121]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_121]
+2020-04-21T03:17:11,591 INFO  [com.dmm.DMMApplication] [JavaFX Application Thread] ÅyAPPLICATION VERSIONÅz 2.0.3
+2020-04-21T03:17:11,592 INFO  [com.dmm.DMMApplication] [JavaFX Application Thread] ÅyRUNTIME VERSIONÅz 1.8.0_121-_2017_02_16_14_59-b00
+2020-04-21T03:20:13,799 INFO  [system.selfupdate.DMMGamePlayerUpdate] [Thread-7] Unzip C:\Users\R154NG\AppData\Local\Temp\com.dmm\rt.zip
+2020-04-21T03:20:13,923 INFO  [controller.view.UpdaterController] [JavaFX Application Thread] ÉCÉìÉXÉgÅ[ÉãÇ™äÆóπÇµÇ‹ÇµÇΩ
+2020-04-21T03:20:13,951 INFO  [system.selfupdate.DMMGamePlayerBoot] [JavaFX Application Thread] [DMM GAME PLAYER PATH]:C:\Visual novel\[RyuuBlogger] GAME-965951\DMMGamePlayer
+2020-04-21T03:20:13,951 INFO  [system.selfupdate.DMMGamePlayerBoot] [JavaFX Application Thread] [DMM GAME PLAYER TEMP PATH]:C:\Users\R154NG\AppData\Local\Temp\com.dmm
+2020-04-21T03:20:13,951 INFO  [system.selfupdate.DMMGamePlayerBoot] [JavaFX Application Thread] SelfUpdating DMMGamePlayer @C:\Users\R154NG\AppData\Local\Temp\com.dmm Update Target Path::C:\Visual novel\[RyuuBlogger] GAME-965951\DMMGamePlayer

@@ -1,0 +1,16 @@
+00:00:01.345334 VirtualBox GUI VM Selector Window 6.1.12 r139181 win.amd64 (Jul 10 2020 22:02:01) release log
+00:00:01.345337 Log opened 2020-11-16T16:21:08.704692300Z
+00:00:01.345338 Build Type: release
+00:00:01.345341 OS Product: Windows 10
+00:00:01.345342 OS Release: 10.0.18363
+00:00:01.345342 OS Service Pack: 
+00:00:01.370800 DMI Product Name: X456URK
+00:00:01.375605 DMI Product Version: 1.0       
+00:00:01.375623 Firmware type: BIOS
+00:00:01.375634 Host RAM: 8063MB (7.8GB) total, 4038MB (3.9GB) available
+00:00:01.375638 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:01.375639 Process ID: 7772
+00:00:01.375639 Package type: WINDOWS_64BITS_GENERIC
+00:00:01.376307 Qt version: 5.6.2
+00:00:01.632309 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:03.092363 GUI: UIMediumEnumerator: Medium-enumeration finished!

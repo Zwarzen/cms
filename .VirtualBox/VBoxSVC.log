@@ -1,0 +1,57 @@
+00:00:00.015380 main     VirtualBox COM Server 6.1.12 r139181 win.amd64 (Jul 10 2020 22:02:01) release log
+00:00:00.015384 main     Log opened 2020-11-16T16:21:07.688803600Z
+00:00:00.015386 main     Build Type: release
+00:00:00.015394 main     OS Product: Windows 10
+00:00:00.015396 main     OS Release: 10.0.18363
+00:00:00.015397 main     OS Service Pack: 
+00:00:00.052960 main     DMI Product Name: X456URK
+00:00:00.075931 main     DMI Product Version: 1.0       
+00:00:00.076405 main     Firmware type: BIOS
+00:00:00.076420 main     Host RAM: 8063MB (7.8GB) total, 4057MB (3.9GB) available
+00:00:00.077702 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.077704 main     Process ID: 1688
+00:00:00.077705 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.192925          VirtualBox: object creation starts
+00:00:00.195060          Home directory: 'C:\Users\R154NG\.VirtualBox'
+00:00:00.195637          Installed Drivers:
+00:00:00.204310            C:\Windows\system32\DRIVERS\VBoxUSBMon.sys (Version: 6.1.12.39181)
+00:00:00.206054            C:\Windows\system32\DRIVERS\VBoxDrv.sys (Version: 6.1.12.39181)
+00:00:00.209104            C:\Windows\system32\DRIVERS\VBoxNetAdp6.sys (Version: 6.1.12.39181)
+00:00:00.229902          Loading settings file "C:\Users\R154NG\.VirtualBox\VirtualBox.xml" with version "1.14-windows"
+00:00:00.242258          usbLibGetDevices: Starting USB device enumeration
+00:00:00.245025          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&152da58&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 6
+00:00:00.245134          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&152da58&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+00:00:00.246640          usbLibGetDevices: Found 3 USB devices, 0 captured
+00:00:00.247989          USB: Unknown USB device detected (idVendor: 0x0000, idProduct: 0x0538)
+00:00:00.251286          USB: Unknown USB device detected (idVendor: 0x0bda, idProduct: 0x57de)
+00:00:00.251721          USB: Unknown USB device detected (idVendor: 0x13d3, idProduct: 0x3490)
+00:00:00.414085          netIfGetBoundAdapters: could not find either 'oracle_VBoxNetLwf' or 'sun_VBoxNetFlt' components (0x1)
+00:00:00.423193          HostDnsMonitor: initializing
+00:00:00.447415          HostDnsMonitor: updating information
+00:00:00.449572          HostDnsMonitor: old information
+00:00:00.449574            no server entries
+00:00:00.449575            no domain set
+00:00:00.449576            no search string entries
+00:00:00.449577          HostDnsMonitor: new information
+00:00:00.449577            server 1: 118.98.44.100
+00:00:00.449579            server 2: 118.98.44.10
+00:00:00.449580            no domain set
+00:00:00.449580            no search string entries
+00:00:00.570967          VD: VDInit finished with VINF_SUCCESS
+00:00:00.896751          Loading settings file "F:\Server\Debian\debian\debian.vbox" with version "1.16-windows"
+00:00:00.906859          VirtualBox: object created
+00:00:21.723986          Saving settings file "C:\Users\R154NG\.VirtualBox\VirtualBox.xml" with version "1.14-windows"
+00:00:21.739323          Saving settings file "C:\Users\R154NG\.VirtualBox\VirtualBox.xml" with version "1.14-windows"
+00:00:26.447790          Launched VM: 67307280 pid: 1456 (0x5b0) frontend: GUI/Qt name: debian
+00:00:32.420732          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:00:32.800259          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:00:33.197844          netIfGetBoundAdapters: could not find either 'oracle_VBoxNetLwf' or 'sun_VBoxNetFlt' components (0x1)
+00:25:20.569115          Saving settings file "F:\Server\Debian\debian\debian.vbox" with version "1.16-windows"
+00:33:51.745570          Saving settings file "C:\Users\R154NG\.VirtualBox\VirtualBox.xml" with version "1.14-windows"
+00:33:51.750222          Saving settings file "C:\Users\R154NG\.VirtualBox\VirtualBox.xml" with version "1.14-windows"
+00:33:57.277829 main     VirtualBox: object deletion starts
+00:33:57.279143 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'F:\Server\Debian\debian\debian.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:33:57.280899 main     HostDnsMonitor: shutting down ...
+00:33:57.281005 main     HostDnsMonitor: shut down
+00:33:57.282933 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:33:57.283161 main     VirtualBox: object deleted
